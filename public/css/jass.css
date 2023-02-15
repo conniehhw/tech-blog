@@ -1010,8 +1010,10 @@ a:hover {
 }
 
 .btn.btn-primary {
-  background-color: #2d3e50;
-  color: #d9e9e8;
+  /* background-color: #2d3e50; */
+  background-color: #ffa500;
+  /* color: #d9e9e8; */
+  color: #ffffff;
 }
 
 .btn.btn-primary:hover {
