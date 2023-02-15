@@ -1,4 +1,5 @@
 const newFormHandler = async (event) => {
+  //Note: Profile refers to Dashboard on Frontend
   event.preventDefault();
 
   const name = document.querySelector("#project-name").value.trim();

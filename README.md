@@ -1,6 +1,6 @@
 # Tech Blog
 
-Link to Heroku Deployed site: [https:///](https:///)
+Link to Heroku Deployed site: [https://https://hidden-tor-85503.herokuapp.com//](https://https://hidden-tor-85503.herokuapp.com//)
 
 ## Description
 
